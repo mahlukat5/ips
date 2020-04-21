@@ -6,6 +6,7 @@
 		["134.255.220.88"]="dogukanucan#5831",
 		["92.42.45.216"]="dogukanucan#5831",
 		["159.146.18.81"]="my home",
+		["x.x.x.x"]="ertrldtcu bişiler deniyor",
 	},
 	["PolisPanel"]={
 		["185.185.232.247"]="Sucortagımm#5579 Yeni IP",
