@@ -4,7 +4,7 @@
 		["185.171.1.242"]="O P T 4 C#7751",
 		["134.255.220.88"]="dogukanucan#5831",
 		["92.42.45.216"]="dogukanucan#5831",
-		["159.146.18.81"]="my home",
+		["89.252.160.116"]="Ceylan Gencer // [EDITOR]SONG //#5821",
 	},
 	["PolisPanel"]={
 		["185.153.228.80"]="Sucortagımm#5579 Yeni IP",
