@@ -1,3 +1,3 @@
 sifreler = {
-	["192.168.1.36"]="unaltofas",
+	["159.146.40.194"]="unaltofas",
 }
