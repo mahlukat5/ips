@@ -1,0 +1,3 @@
+sifreler = {
+	["unaltofas"]=true,
+}
