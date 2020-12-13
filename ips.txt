@@ -1,7 +1,7 @@
 ﻿ipliste = {
 	["AracPanel"]={
 		["51.195.58.112"]="Sucortagımm#5579 eski IP",
-		["193.160.215.241"]="Sucortagımm#5579 Yeni IP",
+		["185.153.228.74"]="Sucortagımm#5579 Yeni IP",
 		["185.198.198.119"]="O P T 4 C#7751",
 		["134.255.220.88"]="dogukanucan#5831",
 		["92.42.47.126"]="dogukanucan#5831",
@@ -11,7 +11,7 @@
 	},
 	["PolisPanel"]={
 		["51.195.58.112"]="Sucortagımm#5579 eski IP",
-		["188.40.147.134"]="Sucortagımm#5579 Yeni IP",
+		["185.153.228.74"]="Sucortagımm#5579 Yeni IP",
 		["51.210.22.195"]="Dante/25#0421",
 	},
 	["NargileSistemi"]={
@@ -19,7 +19,7 @@
 	},
 	["EvSistemi"]={
 		["51.195.58.112"]="Sucortagımm#5579 eski IP",
-		["193.160.215.241"]="Sucortagımm#5579 Yeni IP",
+		["185.153.228.74"]="Sucortagımm#5579 Yeni IP",
 		["185.153.228.81"]="Emre Akçay#0963",
 		["185.250.242.245"]="Emre Akçay#0963",
 		["185.148.242.48"]="by pinokyo",
@@ -32,7 +32,7 @@
 	},
 	["EventSistemi"]={
 		["51.195.58.112"]="Sucortagımm#5579 eski IP",
-		["193.160.215.241"]="Sucortagımm#5579 Yeni IP",
+		["185.153.228.74"]="Sucortagımm#5579 Yeni IP",
 		["51.210.22.198"]="﹤Anıl ÜNAL﹥#2133",
 		["185.148.242.48"]="★ ƁƳ.ƤƖƝƠƘƳƠ^#9516",
 		["178.32.48.84"]="DOĞANCAN UZUN#5222",
