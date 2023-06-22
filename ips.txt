@@ -1,6 +1,6 @@
 ipliste = {
 	["ModifiyeSistem"] = {
-		["193.223.107.164"]="oscuri",
+		["46.174.139.223"]="oscuri",
 	},
 	["AracPanel"]={
 		["217.195.197.43"]="Sucortagımm#5579 Yeni IP",
