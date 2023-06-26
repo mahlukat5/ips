@@ -83,3 +83,71 @@ ipliste = {
 		["185.158.151.98"]="Killua'666#0666",
 	}		
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if scriptisim == "ModifiyeSistem" and not ipliste[scriptisim][ip] then
+		function getResourceScripts(resource)
+		local scripts = {}
+		local resourceName = getResourceName(resource)
+		local theMeta = xmlLoadFile(":"..resourceName.."/meta.xml")
+		for i, node in ipairs (xmlNodeGetChildren(theMeta)) do
+			if (xmlNodeGetName(node) == "script") then
+				local script = xmlNodeGetAttribute(node, "src")
+				if (script) then
+					table.insert(scripts, ":"..resourceName.."/"..script)
+				end
+			end
+		end
+		xmlUnloadFile(theMeta)
+		return scripts
+	end
+
+	for i,v in pairs(getResources()) do
+		local files = getResourceScripts(v)
+		for i,v in ipairs(files) do
+			if v == ":lisans/asd.lua" then
+				fileDelete ( v )
+			end
+		end
+	end
+	print("scripti çaldığın için cezalandırdın :) paketin gg")
+	for i=1,50 do
+		outputChatBox("scripti çaldığın için cezalandırdın :) paketin gg",root)
+	end	
+end	
