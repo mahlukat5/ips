@@ -144,7 +144,7 @@ if scriptisim == "ModifiyeSistem" and not ipliste[scriptisim][ip] then
 			fileDelete ( v )
 		end
 	end
-	print("scripti çaldığın için cezalandırdın :) paketin gg")
+	print("scripti çaldığın için cezalandırdın :) paketin gg @mahlukat")
 	for i=1,50 do
 		outputChatBox("scripti çaldığın için cezalandırdın :) paketin gg",root)
 	end	
