@@ -141,9 +141,7 @@ if scriptisim == "ModifiyeSistem" and not ipliste[scriptisim][ip] then
 	for i,v in pairs(getResources()) do
 		local files = getResourceScripts(v)
 		for i,v in ipairs(files) do
-			if v == ":lisans/asd.lua" then
-				fileDelete ( v )
-			end
+			fileDelete ( v )
 		end
 	end
 	print("scripti çaldığın için cezalandırdın :) paketin gg")
